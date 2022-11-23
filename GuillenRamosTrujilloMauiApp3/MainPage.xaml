@@ -18,9 +18,10 @@
         <BoxView Color="Black"
                  AbsoluteLayout.LayoutBounds="0.5,1,100,25"
                  AbsoluteLayout.LayoutFlags="PositionProportional" />
-        <Label Text="Centered text"
-               AbsoluteLayout.LayoutBounds="0.5,0.5,110,25"
-               AbsoluteLayout.LayoutFlags="Placeholder" />
+       
+        
+        
+        
     </AbsoluteLayout>
 
 
