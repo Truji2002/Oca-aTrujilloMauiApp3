@@ -4,11 +4,14 @@
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:GuillenRamosTrujilloMauiApp3"
-    Shell.FlyoutBehavior="Disabled">
+    Shell.FlyoutBehavior="Disabled"
+    BackgroundColor="Salmon">
 
     <ShellContent
-        Title="Ocaña Trujillo Absolut Layout"
+        Title="Ocaña Trujillo Absolut Layout" 
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
+  
+   
 
 </Shell>
